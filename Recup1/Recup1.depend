@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1531271361 source:c:\users\nico\desktop\recup1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"propietario.h"
+	"autos.h"
+	"estacionamiento.h"
+	"funciones.h"
+
+1531269060 c:\users\nico\desktop\recup1\funciones.h
+
+1531271361 source:c:\users\nico\desktop\recup1\funciones.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"ctype.h"
+	"propietario.h"
+	"autos.h"
+	"estacionamiento.h"
+	"funciones.h"
+	<time.h>
+
+1531230095 c:\users\nico\desktop\recup1\propietario.h
+
+1531269141 source:c:\users\nico\desktop\recup1\propietario.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"propietario.h"
+
+1530404050 c:\users\nico\desktop\recup1\autos.h
+
+1530405279 source:c:\users\nico\desktop\recup1\autos.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"autos.h"
+	<time.h>
+
+1531223161 source:c:\users\nico\desktop\recup1\egresos.c
+	"estacionamiento.h"
+
+1531223084 source:c:\users\nico\desktop\recup1\estacionamiento.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"estacionamiento.h"
+
+1531223307 c:\users\nico\desktop\recup1\egresos.h
+
+1531222971 c:\users\nico\desktop\recup1\estacionamiento.h
+
